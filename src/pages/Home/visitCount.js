@@ -1,5 +1,5 @@
 import React from 'react'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import "./Home.css"
 
 const VisitCount = () => {
@@ -13,12 +13,17 @@ let updateVisitCount = () =>{
         setViewCount(updateView)
     })
 }
-updateVisitCount()
+useEffect(() => {
+    updateVisitCount()
+}, [])
+
 return (
     <div className='visit-cont'>
         <div>
             <p>This page is viewed</p>
             <h3>{viewCount || 0}</h3>
+            <p>times</p>
+
         </div>
     </div>
 )
