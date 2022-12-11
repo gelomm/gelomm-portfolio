@@ -6,8 +6,6 @@ import {
     AiOutlineGithub
 } from "react-icons/ai";
 
-import {BsMedium} from "react-icons/bs";
-
 
 const menuConfig = {
 
@@ -24,13 +22,6 @@ const menuConfig = {
             title: "Projects",
             path: "/projects",
             icon: <AiOutlineGithub size={35}/>,
-            className: "nav-text"
-        },
-        {
-            id: "menu-2",
-            title: "Blogs",
-            path: "/blogs",
-            icon: <BsMedium size={35}/>,
             className: "nav-text"
         },
         {
