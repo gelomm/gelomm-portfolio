@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gelomm-portfolio/static/css/main.ea47dc1e.css",
-    "main.js": "/gelomm-portfolio/static/js/main.6f232abd.js",
+    "main.css": "/gelomm-portfolio/static/css/main.1d5c464f.css",
+    "main.js": "/gelomm-portfolio/static/js/main.37ec29d6.js",
     "static/media/sklearn_genetic_opt.png": "/gelomm-portfolio/static/media/sklearn_genetic_opt.15b892adf6368a965618.png",
     "static/media/card-register.png": "/gelomm-portfolio/static/media/card-register.8194be4926bd3750eaab.png",
     "static/media/temperature.png": "/gelomm-portfolio/static/media/temperature.9997255ff0e6c67679f4.png",
     "static/media/head.png": "/gelomm-portfolio/static/media/head.e869c5a8359e34422189.png",
     "index.html": "/gelomm-portfolio/index.html",
-    "main.ea47dc1e.css.map": "/gelomm-portfolio/static/css/main.ea47dc1e.css.map",
-    "main.6f232abd.js.map": "/gelomm-portfolio/static/js/main.6f232abd.js.map"
+    "main.1d5c464f.css.map": "/gelomm-portfolio/static/css/main.1d5c464f.css.map",
+    "main.37ec29d6.js.map": "/gelomm-portfolio/static/js/main.37ec29d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea47dc1e.css",
-    "static/js/main.6f232abd.js"
+    "static/css/main.1d5c464f.css",
+    "static/js/main.37ec29d6.js"
   ]
 }
