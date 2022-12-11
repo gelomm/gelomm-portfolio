@@ -3,6 +3,7 @@ import {Container, Row, Col} from "react-bootstrap";
 import FooterItems from "./FooterItems";
 import "./Footer.css"
 
+
 const Footer = () => {
 
     return (

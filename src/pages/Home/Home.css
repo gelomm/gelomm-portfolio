@@ -37,3 +37,12 @@
     display: flex;
     justify-content: center;
 }
+
+.visit-cont{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+.visit-cont div{
+    text-align: center;
+}

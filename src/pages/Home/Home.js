@@ -4,6 +4,8 @@ import DynamicTyping from "../../components/DynamicTyping";
 import About from "../../components/About";
 import Timeline from "../../components/Timeline/Timeline";
 import homeConfig from "../../assets/configs/homeConfig";
+import ContactForm from '../../components/contactForm/contactForm';
+import VisitCount from './visitCount';
 
 import "./Home.css"
 
@@ -30,6 +32,8 @@ const Home = () => {
                     <Timeline items={homeConfig.workTimeline}/>
                 </div>
             </Container>
+            <VisitCount/>
+            <ContactForm/>
         </section>)
 
 }
